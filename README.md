@@ -5,4 +5,5 @@ The "Frames" folder contains example frames sampled from a Mindray monitor durin
 ![Alt Text](Image%20with%20Bounding%20Boxes.png)
 
 
-The "ECGWavePeakDetection"
+The "ECGWavePeakDetection" folder gets tabular data from the monitor (500 samples per second) and performs algorithms of peak detection with high accuracy and efficient running time to analyze the wave. 
+![]
